@@ -8,7 +8,7 @@
   
   ### 2. KDE(Kernel Density Estimation)
   Kernel Density Estimation, one of the non-parametric density estimation methods, is a method that improves problems such as discontinuities in histograms by using a kernel function. First, the kernel function is defined as a non-negative function that is symmetric about the origin and has an integral value of 1, and Gaussian, Epanechnikov, and uniform functions are typical kernel functions. KDE is expressed by the following formula.
-  <img width="230" alt="image" src="https://user-images.githubusercontent.com/49769190/136488892-885825c9-cee1-4d79-804d-b218da6503f0.png">
+  <img width="400" alt="image" src="https://user-images.githubusercontent.com/49769190/136488892-885825c9-cee1-4d79-804d-b218da6503f0.png">
 
   ### 3. MLE(
   MLE is a method of selecting a candidate that maximizes the likelihood function (or log likelihood function) among a number of candidates that can be the parameter θ of the assumed probability distribution as an estimator of the parameter. Likelihood refers to the likelihood that the data obtained now come from the distribution. Here parameters were estimated for that data using μML and σ2 ML. To calculate the likelihood numerically, the likelihood contribution from each data sample can be calculated and multiplied. The reason for multiplying the height is that the extraction of each data is an independent event. As shown in the equation below, the combined probability density function of the entire sample set is called the likelihood function.
