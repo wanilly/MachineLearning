@@ -11,6 +11,9 @@
 
   <img width="566" alt="image" src="https://user-images.githubusercontent.com/49769190/136489335-0557b89b-b8c8-475a-b9ea-d4dd58645125.png">
 
+  <img width="420" alt="스크린샷 2021-10-07 오전 10 14 40" src="https://user-images.githubusercontent.com/49769190/136496982-6ffe1ee4-6fd6-4eab-8b54-265a13297b61.png">
+
+
   ### 3. MLE
   MLE is a method of selecting a candidate that maximizes the likelihood function (or log likelihood function) among a number of candidates that can be the parameter θ of the assumed probability distribution as an estimator of the parameter. Likelihood refers to the likelihood that the data obtained now come from the distribution. Here parameters were estimated for that data using μML and σ2 ML. To calculate the likelihood numerically, the likelihood contribution from each data sample can be calculated and multiplied. The reason for multiplying the height is that the extraction of each data is an independent event. As shown in the equation below, the combined probability density function of the entire sample set is called the likelihood function.
   
