@@ -1,7 +1,6 @@
+# Mnist : What is the Mnist?
 
-#Mnist: what is the Mnist?
-
-  Let claclute each hadwritten 0 to 9's pictures pixel using Mnist datasets.
+  ## Let claclute each hadwritten 0 to 9's pictures pixel using Mnist datasets.
   
   Datasets address: 
   
