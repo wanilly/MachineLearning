@@ -9,9 +9,7 @@
   ### 2. KDE(Kernel Density Estimation)
   Kernel Density Estimation, one of the non-parametric density estimation methods, is a method that improves problems such as discontinuities in histograms by using  a kernel function. First, the kernel function is defined as a non-negative function that is symmetric about the origin and has an integral value of 1, and Gaussian, Epanechnikov, and uniform functions are typical kernel functions. KDE is expressed by the following formula.
 
-  <img width="566" alt="image" src="https://user-images.githubusercontent.com/49769190/136489335-0557b89b-b8c8-475a-b9ea-d4dd58645125.png">
-
-  <img width="420" alt="스크린샷 2021-10-07 오전 10 14 40" src="https://user-images.githubusercontent.com/49769190/136496982-6ffe1ee4-6fd6-4eab-8b54-265a13297b61.png">
+  <img width="566" alt="image" src="https://user-images.githubusercontent.com/49769190/136489335-0557b89b-b8c8-475a-b9ea-d4dd58645125.png">      <img width="420" alt="스크린샷 2021-10-07 오전 10 14 40" src="https://user-images.githubusercontent.com/49769190/136496982-6ffe1ee4-6fd6-4eab-8b54-265a13297b61.png">
 
 
   ### 3. MLE
